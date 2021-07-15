@@ -4,10 +4,10 @@
 }
 h1 {
     text-align: center;
-    background-color: #888;
+    background-color: rgb(155, 45, 45);
     color: #fff;
     font-size: 5vw;
-    }
+}
 form {
     display: flex;
 }
@@ -37,7 +37,6 @@ button
 #chats
 {
     font-size:5vw;
-    
 }
 #chats dt
 {
